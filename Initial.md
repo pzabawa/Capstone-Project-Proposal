@@ -2,10 +2,12 @@
  - Patrick Zabawa
  - Springboard Foundations of Data Science
  - April 26, 2016
+
 ---
 1. What is the problem you want to solve?
 
 > I own a rental property in Philadelphia, Pennsylvania with four rental apartments. The problem I’m seeking to solve is the question of what the market rate for renting an apartment similar to each of those is.
+
 2. Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn’t have otherwise?
 
 > My client is myself. The information I obtain will determine what I advertise and charge for each apartment when their leases are up for renewal.
